@@ -1,0 +1,427 @@
+/* @license
+ * MyFonts Webfont Build ID 2612689, 2013-07-30T17:37:25-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Novecento Bold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/bold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow DemiBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-demibold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow UltraLight by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-ultralight/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide Light by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-light/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond Medium by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-medium/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide Bold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-bold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Book by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/book/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide UltraBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-ultrabold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow Book by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-book/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow Medium by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-medium/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide UltraLight by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-ultralight/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond DemiBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-demibold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento DemiBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/demibold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide Normal by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-normal/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow Bold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-bold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow UltraBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-ultrabold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond Normal by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-normal/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow Light by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-light/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento UltraBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/ultrabold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond Book by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-book/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento UltraLight by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/ultralight/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Narrow Normal by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/narrow-normal/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide Medium by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-medium/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond UltraBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-ultrabold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond UltraLight by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-ultralight/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Medium by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/medium/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Light by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/light/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Normal by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/normal/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond Bold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-bold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Cond Light by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/cond-light/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Novecento Wide DemiBold by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-demibold/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: Unlimited
+ * 
+ * Webfont: Novecento Wide Book by Synthview
+ * URL: http://www.myfonts.com/fonts/synthview/novecento/wide-book/
+ * Copyright: Copyright &#x00A9; 2011 by Jan Tonellato. All rights reserved.
+ * Licensed pageviews: Unlimited
+ * 
+ * Webfont: Nexa Black Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/black-italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Bold Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/bold-italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Bold by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/bold/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Book Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/book-italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Book by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/book/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Heavy Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/heavy-italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Light Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/light-italic/
+ * Copyright: Copyright (c) 2012 by Svetoslav Simov. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Light by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/light/
+ * Copyright: Copyright (c) 2010 by Svetoslav Simov. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa XBold Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/xbold-italic/
+ * Copyright: Copyright (c) 2012 by Svetoslav Simov. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Black by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/black/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Heavy by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/heavy/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Thin Italic by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/thin-italic/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Regular by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/regular/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa XBold by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/xbold/
+ * Copyright: Copyright (c) 2010 by Svetoslav Simov. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Nexa Thin by Fontfabric
+ * URL: http://www.myfonts.com/fonts/font-fabric/nexa/thin/
+ * Copyright: Copyright (c) 2012 by Fontfabric LLC. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * Webfont: Alternate Gothic No 3 by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/alternate-gothic-lt/no3/
+ * Copyright: Copyright (c) 2002,  2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Linotype Library GmbH. This typeface i
+ * Licensed pageviews: 250,000
+ * 
+ * Webfont: Alternate Gothic No 2 by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/alternate-gothic-lt/no2/
+ * Copyright: Copyright (c) 2002,  2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Linotype Library GmbH. This typeface i
+ * Licensed pageviews: 250,000
+ * 
+ * Webfont: Alternate Gothic No 1 by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/alternate-gothic-lt/no1/
+ * Copyright: Copyright (c) 2002,  2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Linotype Library GmbH. This typeface i
+ * Licensed pageviews: 250,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2612689
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/27ddd1");
+
+  
+@font-face {font-family: 'Novecento-Bold';src: url('../webfonts/27DDD1_0_0.eot');src: url('../webfonts/27DDD1_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_0_0.woff') format('woff'),url('../webfonts/27DDD1_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-DemiBold';src: url('../webfonts/27DDD1_1_0.eot');src: url('../webfonts/27DDD1_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1_0.woff') format('woff'),url('../webfonts/27DDD1_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-UltraLight';src: url('../webfonts/27DDD1_2_0.eot');src: url('../webfonts/27DDD1_2_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2_0.woff') format('woff'),url('../webfonts/27DDD1_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-Light';src: url('../webfonts/27DDD1_3_0.eot');src: url('../webfonts/27DDD1_3_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_3_0.woff') format('woff'),url('../webfonts/27DDD1_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-Medium';src: url('../webfonts/27DDD1_4_0.eot');src: url('../webfonts/27DDD1_4_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_4_0.woff') format('woff'),url('../webfonts/27DDD1_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-Bold';src: url('../webfonts/27DDD1_5_0.eot');src: url('../webfonts/27DDD1_5_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_5_0.woff') format('woff'),url('../webfonts/27DDD1_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-Book';src: url('../webfonts/27DDD1_6_0.eot');src: url('../webfonts/27DDD1_6_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_6_0.woff') format('woff'),url('../webfonts/27DDD1_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-UltraBold';src: url('../webfonts/27DDD1_7_0.eot');src: url('../webfonts/27DDD1_7_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_7_0.woff') format('woff'),url('../webfonts/27DDD1_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-Book';src: url('../webfonts/27DDD1_8_0.eot');src: url('../webfonts/27DDD1_8_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_8_0.woff') format('woff'),url('../webfonts/27DDD1_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-Medium';src: url('../webfonts/27DDD1_9_0.eot');src: url('../webfonts/27DDD1_9_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_9_0.woff') format('woff'),url('../webfonts/27DDD1_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-UltraLight';src: url('../webfonts/27DDD1_A_0.eot');src: url('../webfonts/27DDD1_A_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_A_0.woff') format('woff'),url('../webfonts/27DDD1_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-DemiBold';src: url('../webfonts/27DDD1_B_0.eot');src: url('../webfonts/27DDD1_B_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_B_0.woff') format('woff'),url('../webfonts/27DDD1_B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-DemiBold';src: url('../webfonts/27DDD1_C_0.eot');src: url('../webfonts/27DDD1_C_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_C_0.woff') format('woff'),url('../webfonts/27DDD1_C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-Normal';src: url('../webfonts/27DDD1_D_0.eot');src: url('../webfonts/27DDD1_D_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_D_0.woff') format('woff'),url('../webfonts/27DDD1_D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-Bold';src: url('../webfonts/27DDD1_E_0.eot');src: url('../webfonts/27DDD1_E_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_E_0.woff') format('woff'),url('../webfonts/27DDD1_E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-UltraBold';src: url('../webfonts/27DDD1_F_0.eot');src: url('../webfonts/27DDD1_F_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_F_0.woff') format('woff'),url('../webfonts/27DDD1_F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-Normal';src: url('../webfonts/27DDD1_10_0.eot');src: url('../webfonts/27DDD1_10_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_10_0.woff') format('woff'),url('../webfonts/27DDD1_10_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-Light';src: url('../webfonts/27DDD1_11_0.eot');src: url('../webfonts/27DDD1_11_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_11_0.woff') format('woff'),url('../webfonts/27DDD1_11_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-UltraBold';src: url('../webfonts/27DDD1_12_0.eot');src: url('../webfonts/27DDD1_12_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_12_0.woff') format('woff'),url('../webfonts/27DDD1_12_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-Book';src: url('../webfonts/27DDD1_13_0.eot');src: url('../webfonts/27DDD1_13_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_13_0.woff') format('woff'),url('../webfonts/27DDD1_13_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-UltraLight';src: url('../webfonts/27DDD1_14_0.eot');src: url('../webfonts/27DDD1_14_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_14_0.woff') format('woff'),url('../webfonts/27DDD1_14_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentonarrow-Normal';src: url('../webfonts/27DDD1_15_0.eot');src: url('../webfonts/27DDD1_15_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_15_0.woff') format('woff'),url('../webfonts/27DDD1_15_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-Medium';src: url('../webfonts/27DDD1_16_0.eot');src: url('../webfonts/27DDD1_16_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_16_0.woff') format('woff'),url('../webfonts/27DDD1_16_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-UltraBold';src: url('../webfonts/27DDD1_17_0.eot');src: url('../webfonts/27DDD1_17_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_17_0.woff') format('woff'),url('../webfonts/27DDD1_17_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-UltraLight';src: url('../webfonts/27DDD1_18_0.eot');src: url('../webfonts/27DDD1_18_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_18_0.woff') format('woff'),url('../webfonts/27DDD1_18_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-Medium';src: url('../webfonts/27DDD1_19_0.eot');src: url('../webfonts/27DDD1_19_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_19_0.woff') format('woff'),url('../webfonts/27DDD1_19_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-Light';src: url('../webfonts/27DDD1_1A_0.eot');src: url('../webfonts/27DDD1_1A_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1A_0.woff') format('woff'),url('../webfonts/27DDD1_1A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecento-Normal';src: url('../webfonts/27DDD1_1B_0.eot');src: url('../webfonts/27DDD1_1B_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1B_0.woff') format('woff'),url('../webfonts/27DDD1_1B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-Bold';src: url('../webfonts/27DDD1_1C_0.eot');src: url('../webfonts/27DDD1_1C_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1C_0.woff') format('woff'),url('../webfonts/27DDD1_1C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentocondensed-Light';src: url('../webfonts/27DDD1_1D_0.eot');src: url('../webfonts/27DDD1_1D_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1D_0.woff') format('woff'),url('../webfonts/27DDD1_1D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-DemiBold';src: url('../webfonts/27DDD1_1E_0.eot');src: url('../webfonts/27DDD1_1E_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1E_0.woff') format('woff'),url('../webfonts/27DDD1_1E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Novecentowide-Book';src: url('../webfonts/27DDD1_1F_0.eot');src: url('../webfonts/27DDD1_1F_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_1F_0.woff') format('woff'),url('../webfonts/27DDD1_1F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Black-Italic';src: url('../webfonts/27DDD1_20_0.eot');src: url('../webfonts/27DDD1_20_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_20_0.woff') format('woff'),url('../webfonts/27DDD1_20_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Bold-Italic';src: url('../webfonts/27DDD1_21_0.eot');src: url('../webfonts/27DDD1_21_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_21_0.woff') format('woff'),url('../webfonts/27DDD1_21_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Bold';src: url('../webfonts/27DDD1_22_0.eot');src: url('../webfonts/27DDD1_22_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_22_0.woff') format('woff'),url('../webfonts/27DDD1_22_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Book-Italic';src: url('../webfonts/27DDD1_23_0.eot');src: url('../webfonts/27DDD1_23_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_23_0.woff') format('woff'),url('../webfonts/27DDD1_23_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Book';src: url('../webfonts/27DDD1_24_0.eot');src: url('../webfonts/27DDD1_24_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_24_0.woff') format('woff'),url('../webfonts/27DDD1_24_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Heavy-Italic';src: url('../webfonts/27DDD1_25_0.eot');src: url('../webfonts/27DDD1_25_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_25_0.woff') format('woff'),url('../webfonts/27DDD1_25_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Light-Italic';src: url('../webfonts/27DDD1_26_0.eot');src: url('../webfonts/27DDD1_26_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_26_0.woff') format('woff'),url('../webfonts/27DDD1_26_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Regular-Italic';src: url('../webfonts/27DDD1_27_0.eot');src: url('../webfonts/27DDD1_27_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_27_0.woff') format('woff'),url('../webfonts/27DDD1_27_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Light';src: url('../webfonts/27DDD1_28_0.eot');src: url('../webfonts/27DDD1_28_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_28_0.woff') format('woff'),url('../webfonts/27DDD1_28_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-XBold-Italic';src: url('../webfonts/27DDD1_29_0.eot');src: url('../webfonts/27DDD1_29_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_29_0.woff') format('woff'),url('../webfonts/27DDD1_29_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NexaBlack';src: url('../webfonts/27DDD1_2A_0.eot');src: url('../webfonts/27DDD1_2A_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2A_0.woff') format('woff'),url('../webfonts/27DDD1_2A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NexaHeavy';src: url('../webfonts/27DDD1_2B_0.eot');src: url('../webfonts/27DDD1_2B_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2B_0.woff') format('woff'),url('../webfonts/27DDD1_2B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-Thin-Italic';src: url('../webfonts/27DDD1_2C_0.eot');src: url('../webfonts/27DDD1_2C_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2C_0.woff') format('woff'),url('../webfonts/27DDD1_2C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NexaRegular';src: url('../webfonts/27DDD1_2D_0.eot');src: url('../webfonts/27DDD1_2D_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2D_0.woff') format('woff'),url('../webfonts/27DDD1_2D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Nexa-XBold';src: url('../webfonts/27DDD1_2E_0.eot');src: url('../webfonts/27DDD1_2E_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2E_0.woff') format('woff'),url('../webfonts/27DDD1_2E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'NexaThin';src: url('../webfonts/27DDD1_2F_0.eot');src: url('../webfonts/27DDD1_2F_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_2F_0.woff') format('woff'),url('../webfonts/27DDD1_2F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'AlternateGothicLT-No3';src: url('../webfonts/27DDD1_30_0.eot');src: url('../webfonts/27DDD1_30_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_30_0.woff') format('woff'),url('../webfonts/27DDD1_30_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'AlternateGothicLT-No2';src: url('../webfonts/27DDD1_31_0.eot');src: url('../webfonts/27DDD1_31_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_31_0.woff') format('woff'),url('../webfonts/27DDD1_31_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'AlternateGothicLT-No1';src: url('../webfonts/27DDD1_32_0.eot');src: url('../webfonts/27DDD1_32_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/27DDD1_32_0.woff') format('woff'),url('../webfonts/27DDD1_32_0.ttf') format('truetype');}
+ 

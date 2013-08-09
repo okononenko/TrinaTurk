@@ -1,0 +1,324 @@
+/*TrinaTurk styles*/
+
+/*adding reset styles*/
+@import url(reset.css);
+
+/*general styles
+--------------------------------------------------*/
+body {
+    font: 12px Novecentowide-Normal, Arial, "sans serif";
+    width: 100%;
+    letter-spacing: normal;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: #040404;
+    font-family: Novecentowide-Normal;
+    font-size: 32px;
+}
+
+a {
+    color: #231f20;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-family: Nexa-Light;
+    font-size: 13px;
+    color: #151515;
+    line-height: 1.7;
+}
+
+img {
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+div {
+    border: none;
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+}
+
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/*header
+--------------------------------------------------*/
+
+.header {
+    width: 1280px;
+    height: 141px;
+}
+
+.header_mr_turk_logo {
+    margin: 30px 0 0 42px;
+    float: left;
+}
+
+.header_trina_turk_logo {
+    margin: 33px 0 0 397px;
+    float: left;
+}
+
+.account {
+    float: right;
+    margin: 35px 40px 0 0;
+}
+
+.account span {
+    padding-left: 28px;
+}
+
+/*header navigation*/
+.header_navigation {
+    margin: 98px 0 0 290px;
+    position: absolute;
+    width: 830px;
+}
+
+.header_navigation li {
+    float: left;
+    padding-right: 45px;
+}
+
+/*content general
+--------------------------------------------------*/
+
+.main_image_block, .card_thumb_block, .thumbs, .thumb_a, .thumb_b {
+    float: left;
+}
+
+.thumbs {
+    margin-top: -3px;
+}
+
+.fade_layer, .content_card, .thumb {
+    position: absolute;
+}
+
+.fade_layer, .thumb {
+    background: #000;
+    opacity: 0.0;
+}
+
+/*main image block
+--------------------------------------------------*/
+
+.info {
+    border: 3px solid #fff;
+    padding: 45px 37px;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.info ul {
+    color: #fff;
+    font-family: Novecentowide-Medium;
+    font-size: 14px;
+    margin-bottom: 45px;
+}
+
+.info li {
+    padding: 5px 0;
+}
+
+.list_marker {
+    list-style: disc inside;
+}
+
+.info a {
+    color: #141217;
+    padding: 13px 25px;
+    background-color: #fff;
+    margin: 45px 0;
+}
+
+/*content card block
+--------------------------------------------------*/
+
+.content_card_bg {
+    text-align: center;
+    background-color: #fff;
+    padding: 84px 84px 70px 84px;
+    width: 400px;
+    height: 422px;
+    margin: 0 auto;
+    display: table;
+}
+
+.content_card_list {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.content_card_title {
+    font-size: 13px;
+}
+
+.content_card h1 {
+    margin-top: 25px;
+}
+
+.content_card p {
+    width: 400px;
+    text-transform: none;
+    margin: 40px auto 0;
+}
+
+.content_card img {
+    float: none;
+    margin: 37px 0 25px 0;
+}
+
+.content_card ul {
+    color: #040404;
+}
+
+.content_card li {
+    margin-top: 7px;
+}
+
+/* thumb
+--------------------------------------------------*/
+
+.thumb ul {
+    list-style-position: inside;
+    text-align: center;
+    color: #fff;
+}
+
+.thumb ul li {
+    margin: 5px 0;
+}
+
+.thumb ul li a {
+    color: #fff;
+}
+
+.thumb ul li:first-child {
+    font-size: 16px;
+}
+
+.thumb ul li:last-child {
+    font-size: 14px;
+}
+
+/*product
+--------------------------------------------------*/
+.product {
+    width: 1224px;
+    margin: 0 auto;
+}
+
+.product_info{
+    border: 3px solid #000;
+    color: #000;
+    font-size: 15px;
+    padding: 10px;
+    font-family: Novecentowide-Medium;
+}
+
+.product_fade {
+    background: none;
+    opacity: 0.0;
+    position: absolute;
+}
+
+.product ul li {
+    float: left;
+    margin: 0 2px;
+    width: 240px;
+    height: 350px;
+    text-align: center;
+}
+
+.product_title {
+    display: table;
+}
+
+/*dress up*/
+.dress_up ul li{
+    margin: 100px 2px 190px;
+}
+
+.dress_up_title, .must_have_title {
+    font-size: 35px;
+    font-family: novecentowide-medium;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+/*trina must have*/
+.must_have ul li{
+    margin: 10px 2px;
+}
+
+.must_have_title {
+    color: #e42195;
+}
+
+.must_have_title > span {
+    font-size: 15px;
+}
+
+
+/*footer
+--------------------------------------------------*/
+.footer_logo {
+    width: 47px;
+    height: 49px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #333333;
+    margin: 53px auto 0;
+}
+
+.footer_social_links {
+    width: 400px;
+    margin: 28px auto;
+}
+
+.footer_social_links li {
+    float: left;
+    margin: 0 20px;
+}
+
+/*footer navigation*/
+.footer_navigation {
+    width: 1110px;
+    margin: 28px auto;
+}
+
+.footer_navigation li {
+    float: left;
+    margin: 0 14px;
+}
+
+.footer_turk_logo {
+    width: 72px;
+    margin: 28px auto;
+}
+
+.copyrights {
+    font-family: Novecentowide-Normal;
+    font-size: 10px;
+    text-align: center;
+    margin: 25px auto 50px;
+}
